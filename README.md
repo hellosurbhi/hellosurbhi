@@ -1,6 +1,7 @@
-<h2> Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Surbhi](https://www.surbhi.dev/)
+## Hello world <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Surbhi](https://www.surbhi.dev/)
 </h2>
-JS | React | Redux | Node | Express | HTML5 | CSS | Typescript | Python
+
+**JS | React | Redux | Node | Express | HTML5 | CSS | Typescript | Python**
 
 I love the idea of creating visually appealing, intuitive products that everybody from one's parents to their children can use with ease. 
 
@@ -24,7 +25,9 @@ Vanilla JS, MERN stack (Mongo, Express, React, Node), UI Automation Testing
 <br />
 <hr />
 
-[twitter]: https://twitter.com/hellosurbhi
-[gmail]: messagesurbhi@gmail.com
 [linkedin]: https://www.linkedin.com/in/hellosurbhi/
+[gmail]: mailto:messagesurbhi@gmail.com
+[twitter]: https://twitter.com/hellosurbhi
+
+
 
