@@ -3,6 +3,10 @@
 
 **JS | React | Redux | Node | Express | HTML5 | CSS | Typescript | Python**
 
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
 I love the idea of creating visually appealing, intuitive products that everybody from one's parents to their children can use with ease. 
 
 I've created and shipped dynamic websites from scratch and adept at writing clean, modularised code with unit tests. 
@@ -16,11 +20,7 @@ I'm also a voracious reader and enjoy curling up with a good book. I'm currently
 Skills: 
 Vanilla JS, MERN stack (Mongo, Express, React, Node), UI Automation Testing 
 
-  <b><i>Let's connect! Find me on the web.</i></b>
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 <br />
 <hr />
