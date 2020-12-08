@@ -3,9 +3,19 @@
 
 **JS | React | Redux | Node | Express | HTML5 | CSS | Typescript | Python**
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<a href="https://twitter.com/hellosurbhi">
+  <img align="left" alt="Surbhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hellosurbhi/">
+  <img align="left" alt="Surbhi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/hellosurbhi/">
+  <img align="left" alt="Surbhi's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=hellosurbhi)
+
+<br />
 
 I love the idea of creating visually appealing, intuitive products that everybody from one's parents to their children can use with ease. 
 
@@ -24,10 +34,6 @@ Vanilla JS, MERN stack (Mongo, Express, React, Node), UI Automation Testing
 
 <br />
 <hr />
-
-[linkedin]: https://www.linkedin.com/in/hellosurbhi/
-[gmail]: mailto:messagesurbhi@gmail.com
-[twitter]: https://twitter.com/hellosurbhi
 
 
 
