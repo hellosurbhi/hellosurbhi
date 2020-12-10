@@ -28,10 +28,9 @@ In my free time, I like to automate boring tasks with Selenium and Puppeteer.
 I'm also a voracious reader and enjoy curling up with a good book. I'm currently re-reading Cat's Cradle for the nth time!
 
 <br />
+
+## Projects:
 <hr />
-
-# Projects:
-
 [Puppeteer starter code](https://github.com/hellosurbhi/puppeteer-starter-code)
 
 
