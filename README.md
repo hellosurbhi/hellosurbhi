@@ -30,7 +30,7 @@ I'm also a voracious reader and enjoy curling up with a good book. I'm currently
 <br />
 
 ## Projects:
-<hr />
+
 [Puppeteer starter code](https://github.com/hellosurbhi/puppeteer-starter-code)
 
 
