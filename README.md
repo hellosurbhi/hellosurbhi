@@ -3,16 +3,6 @@
 
 **JS | React | Redux | Node | Express | HTML5 | CSS | Typescript | Python**
 
-<a href="https://twitter.com/hellosurbhi">
-  <img align="left" alt="Surbhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hellosurbhi/">
-  <img align="left" alt="Surbhi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/hellosurbhi/">
-  <img align="left" alt="Surbhi's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=hellosurbhi)
 
 <br />
