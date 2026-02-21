@@ -26,9 +26,9 @@
 
 ## hey, i'm surbhi 👋
 
-**Senior Software Engineer** with 7+ years building products that serve millions of people. I've been employee #7 at a computer vision startup and led a 15-engineer distributed team shipping e-commerce experiences at scale. I care deeply about craft, clean architecture, and making software that your parents could use without calling you for help.
+**Senior Software Engineer** with 7+ years building products that serve millions of people. I've been the 4th engineer at a computer vision startup and am currently leading a distributed team shipping e-commerce experiences at scale. I care deeply about craft, clean architecture, and making software that your parents could use without calling you for help.
 
-I have a double major in **Computer Science & English** because I believe the best engineers are also great communicators. The best code reads like good prose: clear, intentional, and with no unnecessary words.
+I have a double major in **Computer Science & English**, and I believe the best engineers are also great communicators. The best code reads like good prose: clear, intentional, and with no unnecessary words.
 
 Currently building **30 AI-powered micro-apps in 30 days** to see what happens when you pair curiosity with an API and a deadline.
 
@@ -65,7 +65,7 @@ Currently building **30 AI-powered micro-apps in 30 days** to see what happens w
 
 <br>
 
-**@ Macy's Tech** — Led 15 engineers building checkout and delivery systems. Shipped an $80M+ BNPL integration. Built real-time delivery logic for 20M+ SKUs. Migrated Vue → Nuxt at scale.
+**@ Macy's Tech** — Lead 15 engineers building checkout and delivery systems. Shipped an $80M+ BNPL integration. Built real-time delivery logic for 20M+ SKUs. Migrated Vue → Nuxt at scale.
 
 **@ Invisible AI** — 4th engineer, 7th employee. Built secure customer portals and analytics dashboards. Created self-serve demo flows that 3x'd weekly demos.
 
