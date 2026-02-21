@@ -9,9 +9,9 @@
  ╔═══════════════════════════════════════════════════════╗
  ║                                                       ║
  ║   surbhi@world:~$ whoami                              ║
- ║   > senior software engineer                          ║
+ ║   > senior software engineer | Tech lead              ║
  ║   > early startup to enterprise scale                 ║
- ║   > builder of things people actually use              ║
+ ║   > builder of things people actually use             ║
  ║                                                       ║
  ╚═══════════════════════════════════════════════════════╝
 ```
